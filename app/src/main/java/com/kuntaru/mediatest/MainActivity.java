@@ -123,7 +123,7 @@ public class MainActivity extends AppCompatActivity {
                     btnPlay.setImageResource(R.drawable.ic_pause_black_24dp);
 
                 } else {
-                    position = mArrayList.size() - 1;
+//                    position = mArrayList.size() - 1;
                 }
 
             }
