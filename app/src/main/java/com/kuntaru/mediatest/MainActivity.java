@@ -124,6 +124,8 @@ public class MainActivity extends AppCompatActivity {
 
                 } else {
 //                    position = mArrayList.size() - 1;
+
+                    position = mArrayList.size();
                 }
 
             }
